@@ -28,7 +28,12 @@ Once our projects have been made
 
 ---
 ## Workflow & Commands
-
+* make changes to file
+* `git status`
+* `git add .`
+* `git commit -m "commit message"`
+* `git push`
+* repeat
 
 
 ---
