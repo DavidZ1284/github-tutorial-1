@@ -38,3 +38,6 @@ Once our projects have been made
 
 ---
 ## Rolling Back Changes
+`git checkout -- <file>`
+`git reset HEAD <file>`
+`git reset --hard HEAD~1`
